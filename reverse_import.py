@@ -1,0 +1,3 @@
+import adblockparser
+
+adb = adblockparser

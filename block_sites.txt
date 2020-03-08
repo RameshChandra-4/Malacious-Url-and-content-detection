@@ -1,0 +1,1488 @@
+https://www.googletagmanager.com/gtag/js?id=UA-101185934-10 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://www16.gogoanime.io/img/bg/share_link_4.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'www16.gogoanime.io', 'image': True}
+
+
+
+
+https://mg.steepto.com/mghtml/framehtml/c/g/o/gogoanime.io.267364.html ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+options {'domain': 'mg.steepto.com'}
+
+
+
+
+https://www16.gogoanime.io/img/bg/share_link_4.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'www16.gogoanime.io', 'image': True}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-101185934-10 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://www16.gogoanime.io/img/bg/share_link_2.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'www16.gogoanime.io', 'image': True}
+
+
+
+
+https://mg.steepto.com/mghtml/framehtml/c/g/o/gogoanime.io.267364.html ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+options {'domain': 'mg.steepto.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-159814911-1 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://cdn.steepto.com/images/steepto/steepto_logo_mini_45.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.steepto.com', 'image': True}
+
+
+
+
+https://s-img.steepto.com/g/5227751/492x328/89x0x1151x767/aHR0cDovL2ltZ2hvc3RzLmNvbS90LzIwMjAtMDMvMzg3MDE0LzEzZDU3NTM3MmNlODJiZjJhMWI3MGU3MTljNmYzODJlLmpwZWc*.jpg ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 's-img.steepto.com', 'image': True}
+
+
+
+
+https://cm.steepto.com/i-noref.js?cbuster=158343205357913094568 ===> header: */*
+options {'domain': 'cm.steepto.com'}
+
+
+
+
+https://cm.steepto.com/i.js?cbuster=1583432053574293957983 ===> header: */*
+options {'domain': 'cm.steepto.com'}
+
+
+
+
+https://c.mgid.com/c?f=1&pv=2&v=222|205|0|0jX8T-LvbYurGXSVUrdQILCgV1gGzqAbChzrz4KluBSQfjxmGz8upB6-zjQA6yNr&fw=1&extjs=33262&v=222|205|0|0jX8T-LvbYurGXSVUrdQIEkcN1E5k3yFPz48_f_6pGt0vVDbLDCxBXK5yfXhD0VD&cid=267362&h2=m5xsnQo6JK0EofOTT21R9vLIlmXjPpwcOyz5gYC4QSE*&rid=1c9f3bd7-5f0d-11ea-8384-e4434b2123d2&tt=Referral&ts=www16.gogoanime.io&muid=k25aPWnWHMea&cbuster=1583432054627352357923&tpl=0 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'c.mgid.com'}
+
+
+
+
+https://c.mgid.com/c?pv=2&v=222|205|0|irl_6Eectz8ersQ0azYQSQEZ5TkCkOAnnqGMBgmrdkrhPlzeE9lwClUkvdKQXKE2&extjs=18926&cid=267362&h2=m5xsnQo6JK0EofOTT21R9vLIlmXjPpwcOyz5gYC4QSE*&rid=1c9f3bd7-5f0d-11ea-8384-e4434b2123d2&tt=Referral&ts=www16.gogoanime.io&muid=k25aPWnWHMea&cbuster=1583432055628145389471&tpl=0 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'c.mgid.com'}
+
+
+
+
+https://c.mgid.com/c?pv=2&v=222|205|0|0jX8T-LvbYurGXSVUrdQIAY8o9GT8MES79Of_3Z0WKeDA45Mn1f0uSr4gLh1A5Em&extjs=18926&v=222|205|0|0jX8T-LvbYurGXSVUrdQIPhlVNYxITAXGTl9wmCj3fknR0AgKE2x61C13799XwrO&v=222|205|0|0jX8T-LvbYurGXSVUrdQIFFi_nmw3zmfqXXQ3GgBFEudbPUlCz_USnHYVZcgmkxJ&cid=267362&h2=m5xsnQo6JK0EofOTT21R9vLIlmXjPpwcOyz5gYC4QSE*&rid=1c9f3bd7-5f0d-11ea-8384-e4434b2123d2&tt=Referral&ts=www16.gogoanime.io&muid=k25aPWnWHMea&cbuster=158343205663090292035&tpl=0 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'c.mgid.com'}
+
+
+
+
+https://sb.scorecardresearch.com/beacon.js ===> header: */*
+options {'domain': 'sb.scorecardresearch.com', 'script': True}
+
+
+
+
+https://cdn.viglink.com/images/pixel.gif?ch=1&rn=9.138461090432044 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.viglink.com'}
+
+
+
+
+https://cdn.viglink.com/images/pixel.gif?ch=2&rn=9.138461090432044 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.viglink.com'}
+
+
+
+
+https://my.rtmark.net/img.gif?f=merge&userId=993da5d050784838b2fdb1d1f5ccfba6 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'my.rtmark.net'}
+
+
+
+
+https://links.services.disqus.com/api/ping ===> header: */*
+options {'domain': 'links.services.disqus.com'}
+
+
+
+
+https://referrer.disqus.com/juggler/event.gif?abe=0&embed_hidden=1&load_time=7015&event=init_embed&thread=7899962912&forum=gogoanimetv&forum_id=3952847&imp=350029i17a57tl&prev_imp&thread_slug=plunderer_episode_9_english_subbed_at_gogoanime&user_type=anon&referrer=https%3A%2F%2Fwww16.gogoanime.io%2Fplunderer-episode-9&theme=next&dnt=0&tracking_enabled=1&experiment=lightapi&variant=consolidated&service=dynamic&promoted_enabled=false&max_enabled=true ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'referrer.disqus.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-151229686-1 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://mg.steepto.com/mghtml/framehtml/c/g/o/gogoanime.io.267364.html ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+options {'domain': 'mg.steepto.com'}
+
+
+
+
+https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js ===> header: */*
+options {'domain': 'pagead2.googlesyndication.com', 'script': True}
+
+
+
+
+https://www16.gogoanime.io/img/bg/share_link_4.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'www16.gogoanime.io', 'image': True}
+
+
+
+
+https://www16.gogoanime.io/img/bg/share_link_2.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'www16.gogoanime.io', 'image': True}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-101185934-10 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-159814911-1 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://sb.scorecardresearch.com/beacon.js ===> header: */*
+options {'domain': 'sb.scorecardresearch.com', 'script': True}
+
+
+
+
+https://cm.steepto.com/i.js?cbuster=1583432105976358625844 ===> header: */*
+options {'domain': 'cm.steepto.com'}
+
+
+
+
+https://cdn.steepto.com/images/steepto/steepto_logo_mini_45.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.steepto.com', 'image': True}
+
+
+
+
+https://cm.steepto.com/i-noref.js?cbuster=1583432105979688729940 ===> header: */*
+options {'domain': 'cm.steepto.com'}
+
+
+
+
+https://s-img.steepto.com/g/5227751/492x328/89x0x1151x767/aHR0cDovL2ltZ2hvc3RzLmNvbS90LzIwMjAtMDMvMzg3MDE0LzEzZDU3NTM3MmNlODJiZjJhMWI3MGU3MTljNmYzODJlLmpwZWc*.jpg ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 's-img.steepto.com', 'image': True}
+
+
+
+
+https://my.rtmark.net/img.gif?f=merge&userId=993da5d050784838b2fdb1d1f5ccfba6 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'my.rtmark.net'}
+
+
+
+
+https://www16.gogoanime.io/img/bg/share_link_2.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'www16.gogoanime.io', 'image': True}
+
+
+
+
+https://www16.gogoanime.io/img/bg/share_link_4.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'www16.gogoanime.io', 'image': True}
+
+
+
+
+https://cdn.viglink.com/images/pixel.gif?ch=2&rn=5.884582474165526 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.viglink.com'}
+
+
+
+
+https://cdn.viglink.com/images/pixel.gif?ch=1&rn=5.884582474165526 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.viglink.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-101185934-10 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://mg.steepto.com/mghtml/framehtml/c/g/o/gogoanime.io.267364.html ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+options {'domain': 'mg.steepto.com'}
+
+
+
+
+https://c.mgid.com/c?f=1&pv=2&v=222|205|0|u4N02j8jglBGkQFcBavIpgEZ5TkCkOAnnqGMBgmrdkqRlsSwbQ_vvJ_wzmcm4TWH&fw=1&extjs=52142&v=222|205|0|ISuLeXfbK_RHByx7f74xPLCgV1gGzqAbChzrz4KluBRnccIQRKG-Ah8fJMxkeOjK&v=222|205|0|ISuLeXfbK_RHByx7f74xPEkcN1E5k3yFPz48_f_6pGt7EZzD2BIRfHJjoY-ImoFM&v=222|205|0|ISuLeXfbK_RHByx7f74xPAY8o9GT8MES79Of_3Z0WKfw-6013IecWMFXW6zxrR6R&v=222|205|0|ISuLeXfbK_RHByx7f74xPPhlVNYxITAXGTl9wmCj3fnnk4Vm-KdfjU8mhTKcvx9U&v=222|205|0|ISuLeXfbK_RHByx7f74xPFFi_nmw3zmfqXXQ3GgBFEvr9AZvxaIAiva-zXYMNJ8p&cid=267362&h2=m5xsnQo6JK0EofOTT21R9vLIlmXjPpwcOyz5gYC4QSE*&rid=3d12c17d-5f0d-11ea-8fa4-e4434b211fc2&tt=Direct&muid=k25aPWnWHMea&cbuster=1583432108266596987222&tpl=0 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'c.mgid.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-159814911-1 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://c.mgid.com/doubleclick?url=https%3A%2F%2Fbrainberries.co%2Fpeople%2F10-stunning-asian-actresses-no-man-can-resist%2F&uuid=3d12c17d-5f0d-11ea-8fa4-e4434b211fc2&hash=ISuLeXfbK_RHByx7f74xPLCgV1gGzqAbChzrz4KluBRnccIQRKG-Ah8fJMxkeOjK&cid=267362&gb_uid=5712702&h2=m5xsnQo6JK0EofOTT21R9vLIlmXjPpwcOyz5gYC4QSE*&type=desktop ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'c.mgid.com'}
+
+
+
+
+https://sb.scorecardresearch.com/beacon.js ===> header: */*
+options {'domain': 'sb.scorecardresearch.com', 'script': True}
+
+
+
+
+https://cdn.steepto.com/images/steepto/steepto_logo_mini_45.png ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.steepto.com', 'image': True}
+
+
+
+
+https://s-img.steepto.com/g/5227751/492x328/89x0x1151x767/aHR0cDovL2ltZ2hvc3RzLmNvbS90LzIwMjAtMDMvMzg3MDE0LzEzZDU3NTM3MmNlODJiZjJhMWI3MGU3MTljNmYzODJlLmpwZWc*.jpg ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 's-img.steepto.com', 'image': True}
+
+
+
+
+https://cm.steepto.com/i.js?cbuster=158343210989282920279 ===> header: */*
+options {'domain': 'cm.steepto.com'}
+
+
+
+
+https://cm.steepto.com/i-noref.js?cbuster=1583432109895895542417 ===> header: */*
+options {'domain': 'cm.steepto.com'}
+
+
+
+
+https://my.rtmark.net/img.gif?f=merge&userId=993da5d050784838b2fdb1d1f5ccfba6 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'my.rtmark.net'}
+
+
+
+
+https://links.services.disqus.com/api/ping ===> header: */*
+options {'domain': 'links.services.disqus.com'}
+
+
+
+
+https://cdn.viglink.com/images/pixel.gif?ch=2&rn=8.766027852179482 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.viglink.com'}
+
+
+
+
+https://cdn.viglink.com/images/pixel.gif?ch=1&rn=8.766027852179482 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'cdn.viglink.com'}
+
+
+
+
+https://mg.steepto.com/mghtml/framehtml/c/g/o/gogoanime.io.267364.html ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+options {'domain': 'mg.steepto.com'}
+
+
+
+
+https://referrer.disqus.com/juggler/event.gif?abe=0&embed_hidden=1&load_time=3801&event=init_embed&thread=7899962912&forum=gogoanimetv&forum_id=3952847&imp=34vvum03dfru9a&prev_imp&thread_slug=plunderer_episode_9_english_subbed_at_gogoanime&user_type=anon&referrer=https%3A%2F%2Fwww16.gogoanime.io%2Fplunderer-episode-9&theme=next&dnt=0&tracking_enabled=1&experiment=network_default&variant=fallthrough&service=dynamic&promoted_enabled=false&max_enabled=true ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'referrer.disqus.com'}
+
+
+
+
+https://links.services.disqus.com/api/ping ===> header: */*
+options {'domain': 'links.services.disqus.com'}
+
+
+
+
+https://referrer.disqus.com/juggler/event.gif?abe=0&embed_hidden=1&load_time=3005&event=init_embed&thread=7899962912&forum=gogoanimetv&forum_id=3952847&imp=34vvfmscjt3mm&prev_imp&thread_slug=plunderer_episode_9_english_subbed_at_gogoanime&user_type=anon&referrer=https%3A%2F%2Fwww16.gogoanime.io%2Fplunderer-episode-9&theme=next&dnt=0&tracking_enabled=1&experiment=network_default&variant=fallthrough&service=dynamic&promoted_enabled=false&max_enabled=true ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'referrer.disqus.com'}
+
+
+
+
+https://c.mgid.com/doubleclick?url=https%3A%2F%2Fbrainberries.co%2Fpeople%2F10-stunning-asian-actresses-no-man-can-resist%2F&uuid=3d12c17d-5f0d-11ea-8fa4-e4434b211fc2&hash=ISuLeXfbK_RHByx7f74xPLCgV1gGzqAbChzrz4KluBRnccIQRKG-Ah8fJMxkeOjK&cid=267362&gb_uid=5712702&h2=m5xsnQo6JK0EofOTT21R9vLIlmXjPpwcOyz5gYC4QSE*&type=desktop ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'c.mgid.com'}
+
+
+
+
+https://www.steepto.com/ghits/2869798/i/67186/0/pp/2/2?h=ISuLeXfbK_RHByx7f74xPLCgV1gGzqAbChzrz4KluBRnccIQRKG-Ah8fJMxkeOjK&rid=3d12c17d-5f0d-11ea-8fa4-e4434b211fc2&tt=Direct&cpm=1&gbpp=1&k=267362fcds7.JkyW*fI5fXCrwHo5fXCrwJ7nfp6fK5fIXfKEfmf-*fh.fI%3DfI%3DfKUHIxBfIXfI%3DfTfaHR0cHM6Ly93d3cxNi5nb2dvYW5pbWUuaW8vcGx1bmRlcmVyLWVwaXNvZGUtOQ%3D%3DffaHR0cHM6Ly93d3cxNi5nb2dvYW5pbWUuaW8vf%3BfNjkz*DEyNTh8NjQ1*DEyMjE%3DfMHww*DB8MA%3D%3DfMHwwf!fdfNDcz*DY4NnwzMzd8MzQ1faQfQafXCrwIARf!fTW96aWxsY%2481LjAgKE1hY2ludG9zaDsg%24W50ZWwgTWFjIE9TIFggMTB*MTN*NikgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvK%24BWZXJzaW9uLzEzLjAuN%24BTYWZhcmkvNjA1LjEuMTU%3DfV2Vi%242l0YnVpbHQtaW5QREY%3DfM3wyNg%3D%3DfTWFj%24W50ZWw%3DfMzMwfLTF8LTE%3DfMTY4MHwxMDI3fdW5rbm93bnx1bmtub3du*DA%3Df!fXfI%3Df!f*f*f&muid=k25aPWnWHMea ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+options {'domain': 'www.steepto.com'}
+
+
+
+
+https://www.steepto.com/favicon.ico ===> header: */*
+options {'domain': 'www.steepto.com'}
+
+
+
+
+https://c.mgid.com/doubleclick?url=https%3A%2F%2Fwww.steepto.com%2Fghits%2F2869798%2Fi%2F67186%2F0%2Fpp%2F2%2F2%3Fh%3DISuLeXfbK_RHByx7f74xPLCgV1gGzqAbChzrz4KluBRnccIQRKG-Ah8fJMxkeOjK%26rid%3D3d12c17d-5f0d-11ea-8fa4-e4434b211fc2%26tt%3DDirect%26cpm%3D1%26gbpp%3D1%26k%3D267362fcds7.JkyW*fI5fXCrwHo5fXCrwKywfp6fK6fIkfKEfI%253Df-*fhSfI%253DfI%253DfKUHIxBfIkfI%253DfTfaHR0cHM6Ly93d3cxNi5nb2dvYW5pbWUuaW8vcGx1bmRlcmVyLWVwaXNvZGUtOQ%253D%253DffaHR0cHM6Ly93d3cxNi5nb2dvYW5pbWUuaW8vf%253BfNjk0*DEyNzF8NjQ1*DEyMjE%253DfMHww*DB8MA%253D%253DfMHwwf!fdfNDcz*DY4NnwzMzd8MzQ1faQfQafXCrwIARf!fTW96aWxsY%252481LjAgKE1hY2ludG9zaDsg%2524W50ZWwgTWFjIE9TIFggMTB*MTN*NikgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvK%2524BWZXJzaW9uLzEzLjAuN%2524BTYWZhcmkvNjA1LjEuMTU%253DfV2Vi%25242l0YnVpbHQtaW5QREY%253DfM3wyNg%253D%253DfTWFj%2524W50ZWw%253DfMzMwfLTF8LTE%253DfMTY4MHwxMDI3fdW5rbm93bnx1bmtub3du*DA%253Df!fXfI%253Df!f*f*f%26muid%3Dk25aPWnWHMea&uuid=3d12c17d-5f0d-11ea-8fa4-e4434b211fc2&hash=ISuLeXfbK_RHByx7f74xPLCgV1gGzqAbChzrz4KluBRnccIQRKG-Ah8fJMxkeOjK&cid=267362&gb_uid=5712702&h2=m5xsnQo6JK0EofOTT21R9vLIlmXjPpwcOyz5gYC4QSE*&type=desktop ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'c.mgid.com'}
+
+
+
+
+https://www.steepto.com/ghits/2869798/i/67186/0/pp/2/2?h=ISuLeXfbK_RHByx7f74xPLCgV1gGzqAbChzrz4KluBRnccIQRKG-Ah8fJMxkeOjK&rid=3d12c17d-5f0d-11ea-8fa4-e4434b211fc2&tt=Direct&cpm=1&gbpp=1&k=267362fcds7.JkyW*fI5fXCrwHo5fXCrwK__fp6fK6fIkfKEfI%24f-*fhSfI%3DfI%3DfKUHIxBfIkfI%3DfTfaHR0cHM6Ly93d3cxNi5nb2dvYW5pbWUuaW8vcGx1bmRlcmVyLWVwaXNvZGUtOQ%3D%3DffaHR0cHM6Ly93d3cxNi5nb2dvYW5pbWUuaW8vf%3BfNjk0*DEyNzF8NjQ1*DEyMjE%3DfMHww*DB8MA%3D%3DfMHwwf!fdfNDcz*DY4NnwzMzd8MzQ1faQfQafXCrwIARf!fTW96aWxsY%2481LjAgKE1hY2ludG9zaDsg%24W50ZWwgTWFjIE9TIFggMTB*MTN*NikgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvK%24BWZXJzaW9uLzEzLjAuN%24BTYWZhcmkvNjA1LjEuMTU%3DfV2Vi%242l0YnVpbHQtaW5QREY%3DfM3wyNg%3D%3DfTWFj%24W50ZWw%3DfMzMwfLTF8LTE%3DfMTY4MHwxMDI3fdW5rbm93bnx1bmtub3du*DA%3Df!fXfI%3Df!f*f*f&muid=k25aPWnWHMea ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+options {'domain': 'www.steepto.com'}
+
+
+
+
+https://www.steepto.com/favicon.ico ===> header: */*
+options {'domain': 'www.steepto.com'}
+
+
+
+
+https://adservice.google.com/adsid/google/ui ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'adservice.google.com'}
+
+
+
+
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1878865792&e=s&n=2782837229628494&aid=GCCG&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=6&emi=locssj13gcic&gfb=0&gifr=0&gios=0&i=1&lid=1awobm81wzrf&lsa=read&mt=0&pbd=1&pbr=1&pgi=10kpysl2wb7m&ph=1&pid=aVr2lJgW&pii=0&pl=386&plc=1&pli=1wncgsm1op7i&pp=html5&ppm=VOD&prc=1&ps=4&pss=1&pt=Watch%20Plunderer%20Episode%209&pu=https%3A%2F%2Fwww16.gogoanime.io%2Fplunderer-episode-9&pv=8.9.2&pyc=1&s=0&sdk=0&stc=1&stpe=0&tv=3.13.0&vb=1&vi=1&vl=90&wd=686&abm=0&cae=0&cct=0&dnt=unsupported&drm=0&ff=50&l=4&lng=en-US&mk=mp4&mu=https%3A%2F%2Fredirector.googlevideo.com%2Fvideoplayback%3Fid%3D703594b19bc11a02%26itag%3D22%26source%3Dyoutube%26requiressl%3Dyes%26ei%3D6_NgXreXH6327QSe45noCw%26susc%3Dytcp%26mime%3Dvideo%2Fmp4%26dur%3D1370.186%26lmt%3D1583346751408818%26txp%3D2216222%26cmo%3Dsecure_transport%3Dyes%26ip%3D0.0.0.0%26ipbits%3D0%26expire%3D1583441003%26sparams%3Dip%2Cipbits%2Cexpire%2Cid%2Citag%2Csource%2Crequiressl%2Cei%2Csusc%2Cmime%2Cdur%2Clmt%26signature%3D693A3CA1A30E3F390F7D99692E4F5C169E81AAF159819AB1D7B5E28E419D05F3.DDB80E2881AD4F4E505364D6E6B24C63E3DCD9A1FE97FA5E2F2D9D2BA5DF9F78%26key%3Dus0&pd=1&plng=en-US&pni=0&pnl=37&pr=1&q=32&qcr=initial%20choice&sp=0&strt=463870&tb=774.9&tt=1&vd=1370&vh=720&vs=5&vw=1280&sa=1583432605528 ===> header: image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+options {'domain': 'prd.jwpltx.com'}
+
+
+
+
+https://www.naukri.com/akam/11/6a1f2eb2 ===> header: */*
+options {'domain': 'www.naukri.com'}
+
+
+
+
+https://www.googletagmanager.com/gtm.js?id=GTM-NX744H ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://improving.duckduckgo.com/t/atbhi_chrome_v211-3?4904812&va=r&atbva=z&l=en_US&p=windows ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'improving.duckduckgo.com'}
+
+
+
+
+https://improving.duckduckgo.com/t/hi?7773253&b=chrome&atbi=true&ei=true&i=false&d=d&l=en_US&p=windows&atb=v211-3&va=r&atbva=z ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'improving.duckduckgo.com'}
+
+
+
+
+https://clients5.google.com/pagead/drt/dn/ ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'clients5.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?hasfast=true&auth=SAPISIDHASH%2012e6f4468db2ebd5c78b369efad2ceba53ef1235&authuser=0&format=json ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://kissanime.ru/ads/madads.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300-2.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads160.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-1712467-43 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://ads.2mdnsys.com/qcad.php?did=42&unit=59df4a6465382&tm=1507805796&sid=20&zid=1034&k=59df4a64653d2 ===> header: */*
+options {'domain': 'ads.2mdnsys.com'}
+
+
+
+
+https://kissanime.ru/ads/madads.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300-2.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads160.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://koindut.com/apu.php?zoneid=1616188 ===> header: */*
+options {'domain': 'koindut.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-159946630-1 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-159946630-1 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://www.google-analytics.com/r/collect?v=1&_v=j81&a=457333740&t=pageview&_s=1&dl=https%3A%2F%2Fsqliteonline.com%2F&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-in&de=UTF-8&dt=SQL%20Online%20IDE%20-%20for%20Data%20Science&sd=24-bit&sr=1536x864&vp=1536x722&je=0&_u=AACAAEAB~&jid=1575200959&gjid=62347402&cid=1500027228.1583515144&tid=UA-87325436-1&_gid=1845281546.1583515144&_r=1&z=65616230 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'www.google-analytics.com'}
+
+
+
+
+https://www.google-analytics.com/collect?v=1&_v=j81&a=457333740&t=event&_s=2&dl=https%3A%2F%2Fsqliteonline.com%2F&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-in&de=UTF-8&dt=SQL%20Online%20IDE%20-%20for%20Data%20Science&sd=24-bit&sr=1536x864&vp=1536x722&je=0&ec=page&ea=ver20.2.18&el=0&_u=AACAAEAB~&jid=&gjid=&cid=1500027228.1583515144&tid=UA-87325436-1&_gid=1845281546.1583515144&z=1956116461 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'www.google-analytics.com'}
+
+
+
+
+https://www.google-analytics.com/collect?v=1&_v=j81&a=457333740&t=event&_s=3&dl=https%3A%2F%2Fsqliteonline.com%2F&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-in&de=UTF-8&dt=SQL%20Online%20IDE%20-%20for%20Data%20Science&sd=24-bit&sr=1536x864&vp=1536x722&je=0&ec=geo&ea=in&el=1001&_u=AACAAEAB~&jid=&gjid=&cid=1500027228.1583515144&tid=UA-87325436-1&_gid=1845281546.1583515144&z=405483315 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'www.google-analytics.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?hasfast=true&auth=SAPISIDHASH%2012e6f4468db2ebd5c78b369efad2ceba53ef1235&authuser=0&format=json ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://mobile.pipe.aria.microsoft.com/Collector/3.0/ ===> header: */*
+options {'domain': 'mobile.pipe.aria.microsoft.com'}
+
+
+
+
+https://mobile.pipe.aria.microsoft.com/Collector/3.0/ ===> header: */*
+options {'domain': 'mobile.pipe.aria.microsoft.com'}
+
+
+
+
+https://mobile.pipe.aria.microsoft.com/Collector/3.0/ ===> header: */*
+options {'domain': 'mobile.pipe.aria.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://mobile.pipe.aria.microsoft.com/Collector/3.0/ ===> header: */*
+options {'domain': 'mobile.pipe.aria.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://mobile.pipe.aria.microsoft.com/Collector/3.0/ ===> header: */*
+options {'domain': 'mobile.pipe.aria.microsoft.com'}
+
+
+
+
+https://mobile.pipe.aria.microsoft.com/Collector/3.0/ ===> header: */*
+options {'domain': 'mobile.pipe.aria.microsoft.com'}
+
+
+
+
+https://mobile.pipe.aria.microsoft.com/Collector/3.0/ ===> header: */*
+options {'domain': 'mobile.pipe.aria.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://www.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'www.google.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-1712467-43 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://kissanime.ru/ads/madads300-2.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads160.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://ads.2mdnsys.com/qcad.php?did=42&unit=59df4a6465382&tm=1507805796&sid=20&zid=1034&k=59df4a64653d2 ===> header: */*
+options {'domain': 'ads.2mdnsys.com'}
+
+
+
+
+https://koindut.com/apu.php?zoneid=1616188 ===> header: */*
+options {'domain': 'koindut.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://kissanime.ru/ads/madads160.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300-2.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://ads.2mdnsys.com/qcad.php?did=42&unit=59df4a6465382&tm=1507805796&sid=20&zid=1034&k=59df4a64653d2 ===> header: */*
+options {'domain': 'ads.2mdnsys.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-1712467-43 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://koindut.com/apu.php?zoneid=1616188 ===> header: */*
+options {'domain': 'koindut.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-1712467-43 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://ads.2mdnsys.com/qcad.php?did=42&unit=59df4a6465382&tm=1507805796&sid=20&zid=1034&k=59df4a64653d2 ===> header: */*
+options {'domain': 'ads.2mdnsys.com'}
+
+
+
+
+https://kissanime.ru/ads/madads160.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300-2.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://koindut.com/apu.php?zoneid=1616188 ===> header: */*
+options {'domain': 'koindut.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://kissanime.ru/ads/madads.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300-2.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads160.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://ads.2mdnsys.com/qcad.php?did=42&unit=59df4a6465382&tm=1507805796&sid=20&zid=1034&k=59df4a64653d2 ===> header: */*
+options {'domain': 'ads.2mdnsys.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-1712467-43 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://koindut.com/apu.php?zoneid=1616188 ===> header: */*
+options {'domain': 'koindut.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://secure.quantserve.com/quant.js ===> header: */*
+options {'domain': 'secure.quantserve.com', 'script': True}
+
+
+
+
+https://clc.stackoverflow.com/timeout.gif?ab=0 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'clc.stackoverflow.com'}
+
+
+
+
+https://www.google-analytics.com/r/collect ===> header: */*
+options {'domain': 'www.google-analytics.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://www.googletagservices.com/tag/js/gpt.js ===> header: */*
+options {'domain': 'www.googletagservices.com', 'script': True}
+
+
+
+
+https://www.google-analytics.com/r/collect ===> header: */*
+options {'domain': 'www.google-analytics.com'}
+
+
+
+
+https://www.google-analytics.com/collect ===> header: */*
+options {'domain': 'www.google-analytics.com'}
+
+
+
+
+https://secure.quantserve.com/quant.js ===> header: */*
+options {'domain': 'secure.quantserve.com', 'script': True}
+
+
+
+
+https://ads.2mdnsys.com/qcad.php?did=42&unit=59df4a6465382&tm=1507805796&sid=20&zid=1034&k=59df4a64653d2 ===> header: */*
+options {'domain': 'ads.2mdnsys.com'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-1712467-43 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://stackoverflow.com/gps/event ===> header: */*
+options {'domain': 'stackoverflow.com'}
+
+
+
+
+https://stackoverflow.com/gps/event ===> header: */*
+options {'domain': 'stackoverflow.com'}
+
+
+
+
+https://koindut.com/apu.php?zoneid=1616188 ===> header: */*
+options {'domain': 'koindut.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://clc.stackoverflow.com/timeout.gif?ab=0 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'clc.stackoverflow.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true&authuser=0 ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://play.google.com/log?hasfast=true&auth=SAPISIDHASH%2012e6f4468db2ebd5c78b369efad2ceba53ef1235&authuser=0&format=json ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://play.google.com/log?format=json&hasfast=true ===> header: */*
+options {'domain': 'play.google.com'}
+
+
+
+
+https://www.drdarrinlew.us/images/social_buttons_pinterest.png ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'www.drdarrinlew.us', 'image': True}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=1&utmn=1995820592&utmhn=www.drdarrinlew.us&utme=8(page*pscore)9(article*205)&utmcs=UTF-8&utmsr=1536x864&utmvp=1519x722&utmsc=24-bit&utmul=en-in&utmje=0&utmfl=-&utmdt=Nitrogen%20Ammonia%20Nh3%20Nitrite%20No2%20And%20Nitrate%20No3%20-%20Water%20Quality&utmhid=1650015364&utmr=-&utmp=%2Fwater-quality%2Fnitrogen-ammonia-nh3-nitrite-no2-and-nitrate-no3.html&utmht=1583517708706&utmac=UA-39324416-1&utmcc=__utma%3D72963270.1151080091.1583517709.1583517709.1583517709.1%3B%2B__utmz%3D72963270.1583517709.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=204731469&utmredir=1&utmu=qQAAAAAAAAAAAAAAAAAAAAAE~ ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'ssl.google-analytics.com'}
+
+
+
+
+https://log.pinterest.com/?type=pidget&guid=sCxYUE9sygdm&tv=2019040401&event=init&sub=in&button_count=1&follow_count=0&pin_count=0&button_hover=1&profile_count=0&board_count=0&section_count=0&lang=en&nvl=en-IN&via=https%3A%2F%2Fwww.drdarrinlew.us%2Fwater-quality%2Fnitrogen-ammonia-nh3-nitrite-no2-and-nitrate-no3.html&callback=PIN_1583517708957.f.callback[0] ===> header: */*
+options {'domain': 'log.pinterest.com'}
+
+
+
+
+https://www.doityourself.com/js/socialShare/ib-share.js ===> header: */*
+options {'domain': 'www.doityourself.com', 'script': True}
+
+
+
+
+https://gdpr.internetbrands.com/v1/ibeugdpr.min.js ===> header: */*
+options {'domain': 'gdpr.internetbrands.com', 'script': True}
+
+
+
+
+https://www.doityourself.com/js/chunks/app-google-analytics.js?id=9cc9cebbd9bb35bdb473 ===> header: */*
+options {'domain': 'www.doityourself.com'}
+
+
+
+
+https://www.google-analytics.com/analytics_debug.js ===> header: */*
+options {'domain': 'www.google-analytics.com', 'script': True}
+
+
+
+
+https://gdpr.internetbrands.com/v1/ibeugdpr.min.js ===> header: */*
+options {'domain': 'gdpr.internetbrands.com', 'script': True}
+
+
+
+
+https://www.doityourself.com/js/socialShare/ib-share.js ===> header: */*
+options {'domain': 'www.doityourself.com', 'script': True}
+
+
+
+
+https://ibclick.stream/assets/js/track/dist/js/v1/tracker.min.js ===> header: */*
+options {'domain': 'ibclick.stream', 'script': True}
+
+
+
+
+https://trk.vidible.tv/trk/impression.gif?pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&s=true&pv=21.1.206&ifr=false&pt=html5&sid=f7a852bf-400e-434b-9eb0-4066869404ee&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&cb=0.9354329088975653 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://kissanime.ru/ads/madads160.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://kissanime.ru/ads/madads300-2.aspx ===> header: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+options {'domain': 'kissanime.ru'}
+
+
+
+
+https://trk.vidible.tv/trk/error.gif?pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&sid=f7a852bf-400e-434b-9eb0-4066869404ee&s=true&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&pt=html5&et=Uspapi%20failed%20to%20respond&cb=0.2974299461925469 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://www.googletagmanager.com/gtag/js?id=UA-1712467-43 ===> header: */*
+options {'domain': 'www.googletagmanager.com'}
+
+
+
+
+https://vortex.data.microsoft.com/collect/v1 ===> header: None
+options {'domain': 'vortex.data.microsoft.com'}
+
+
+
+
+https://trk.vidible.tv/trk/action.gif?bid=5c06e24c55010c00010eee9f&pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&sid=f7a852bf-400e-434b-9eb0-4066869404ee&s=true&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&pt=html5&action=ResourceLoaded&c1=ResourceLoaded&c2=https%3A%2F%2Fcdn-ssl.vidible.tv%2Fprod%2Fplayer%2Fjs%2F21.1.206%2Fextras%2Frapid.js&pv=21.1.206&pt=html5&cb=0.1628423139526407 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://ads.2mdnsys.com/qcad.php?did=42&unit=59df4a6465382&tm=1507805796&sid=20&zid=1034&k=59df4a64653d2 ===> header: */*
+options {'domain': 'ads.2mdnsys.com'}
+
+
+
+
+https://koindut.com/apu.php?zoneid=1616188 ===> header: */*
+options {'domain': 'koindut.com'}
+
+
+
+
+https://trk.vidible.tv/trk/action.gif?bid=5c06e24c55010c00010eee9f&pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&sid=f7a852bf-400e-434b-9eb0-4066869404ee&s=true&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&pt=html5&action=ResourceLoaded&c1=ResourceLoaded&c2=https%3A%2F%2Fcdn-ssl.vidible.tv%2Fprod%2Fplayer%2Fjs%2F21.1.206%2Fextras%2Fupnextpromo.js&pv=21.1.206&pt=html5&cb=0.30853938259970803 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://trk.vidible.tv/trk/ad-request.gif?bcid=5a70e45135b1cb557b105ab9&bid=5c06e24c55010c00010eee9f&pid=5d815a71e98ab524ac6a06ab&pt=html5&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&s=true&sid=f7a852bf-400e-434b-9eb0-4066869404ee&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&at=preroll&ps=html5-vpaid&spaceid=793604934&vid=5c953ca841aecf625408333f&p.vw.active=0&p.vw.sound=0&vwa=0&vwm=-1&cb=0.872429858897146 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://trk.vidible.tv/trk/action.gif?bid=5c06e24c55010c00010eee9f&pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&sid=f7a852bf-400e-434b-9eb0-4066869404ee&s=true&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&pt=html5&action=LoadExtra&seq=1&vid=5c953ca841aecf625408333f&c1=floater%2Cmoat%2Crapid%2Cshare%2Ccomscorestreamsense%2Cupnextpromo&cb=0.4100674359680949 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://trk.vidible.tv/trk/display.gif?bid=5c06e24c55010c00010eee9f&pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&sid=f7a852bf-400e-434b-9eb0-4066869404ee&s=true&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&pt=html5&ab=1&csid=55d58350e4b01b335d2c3c1c&dt=9270&h=410&spaceid=793604934&w=730&cb=0.10237570740114643 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://trk.vidible.tv/trk/action.gif?bid=5c06e24c55010c00010eee9f&pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&sid=f7a852bf-400e-434b-9eb0-4066869404ee&s=true&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&pt=html5&action=LoadSkin&seq=1&vid=5c953ca841aecf625408333f&c1=haymarket&cb=0.8794548008239425 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://trk.vidible.tv/trk/video-impression.gif?bid=5c06e24c55010c00010eee9f&pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&sid=f7a852bf-400e-434b-9eb0-4066869404ee&s=true&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&pt=html5&pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&spaceid=793604934&vid=5c953ca841aecf625408333f&cb=0.046146981779288554 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
+https://trk.vidible.tv/trk/action.gif?bid=5c06e24c55010c00010eee9f&pid=5d815a71e98ab524ac6a06ab&bcid=5a70e45135b1cb557b105ab9&sid=f7a852bf-400e-434b-9eb0-4066869404ee&s=true&pv=21.1.206&r=https%3A%2F%2Fwww.doityourself.com%2Fstry%2Fgrowing-rice-with-aquaponics&vvuid=49C0B742-EB7E-42CF-8863-67B2FBCCCD43&pt=html5&action=ResourceLoaded&seq=1&vid=5c953ca841aecf625408333f&c1=ResourceLoaded&c2=https%3A%2F%2Fcdn-ssl.vidible.tv%2Fprod%2Fplayer%2Fjs%2F21.1.206%2Fskins%2Fhaymarket.js&pv=21.1.206&pt=html5&cb=0.010627438900078445 ===> header: image/webp,image/apng,image/*,*/*;q=0.8
+options {'domain': 'trk.vidible.tv'}
+
+
+
+
